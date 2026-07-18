@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "channel": "stable",
+  "required": false,
+  "release_date": "2026-07-18",
+  "title": "POS PRO v1.0.0",
+  "description": [
+    "Birinchi rasmiy versiya"
+  ],
+  "download_url": ""
+}
