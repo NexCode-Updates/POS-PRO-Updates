@@ -1,12 +1,13 @@
 {
-  "version": "1.0.0",
-  "build": 1,
+  "version": "1.0.1",
+  "build": 2,
   "channel": "stable",
   "required": false,
   "release_date": "2026-07-18",
-  "title": "POS PRO v1.0.0",
+  "title": "POS PRO v1.0.1",
   "description": [
-    "Birinchi rasmiy versiya"
+    "Auto Update sinov versiyasi",
+    "Yangilanish tizimi test qilinmoqda"
   ],
   "download_url": ""
 }
