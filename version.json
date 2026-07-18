@@ -1,17 +1,17 @@
 {
-  "version": "1.0.3",
-  "build": 4,
+  "version": "1.0.2",
+  "build": 3,
   "channel": "stable",
   "required": false,
   "release_date": "2026-07-18",
-  "title": "POS PRO v1.0.3"
+  "title": "POS PRO v1.0.2",
   "description": [
     "Auto Update tizimi qo'shildi",
     "Yangilanish mexanizmi yaxshilandi",
     "Xatolar tuzatildi",
     "Barqarorlik oshirildi"
   ],
-  "download_url": https://drive.google.com/file/d/1B-ferZ6f_YW_ZRzqEMUnfchebS3XfJ-z/view?usp=sharing
+  "download_url": "https://drive.usercontent.google.com/download?id=1B-ferZ6f_YW_ZRzqEMUnfchebS3XfJ-z&export=download&confirm=t",
   "sha256": "",
   "package_type": "zip"
 }
