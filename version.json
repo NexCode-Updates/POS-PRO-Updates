@@ -5,10 +5,10 @@
   "required": false,
   "title": "POS PRO v1.0.4",
   "description": [
-    ";"
+    "Qo'shimcha shtrix kodlar qo'shildi."
   ],
-  "download_url": "https://github.com/NexCode-Updates/POS-PRO-Updates/releases/download/v1.0.4/POS_PRO_Update_1.0.4.zip",
+  "download_url": "https://drive.google.com/uc?export=download&id=13_L-qk_feKTSTSE_c4dCExuvtzpz9I5f",
   "file_name": "POS_PRO_Update_1.0.4.zip",
-  "sha256": "82a8a81a158d3d2dbf5df5d44cebe2b785b3271d16511a5dfddb79a8ca30c9d3",
+  "sha256": "82a8a81a158d3d2bdf5df5d44cebe2b785b3271d16511a5dfddb79a8ca30c9d3",
   "package_type": "zip"
 }
