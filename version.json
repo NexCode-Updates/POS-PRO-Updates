@@ -1,14 +1,14 @@
 {
-  "version": "1.0.3",
-  "build": 4,
+  "version": "1.0.4",
+  "build": 5,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.0.3",
+  "title": "POS PRO v1.0.4",
   "description": [
-    ";"
+    "Qo'shimcha shtrix kodlar qo'shildi."
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1yYlJL1lMAOATvpb-wIqWFe-vMLtwwGfU"
-  "file_name": "POS_PRO_Update_1.0.3.zip",
-  "sha256": "1af44d3b714c61683d6115ec1fbc39a93c9e48abeaf2644a6a2b9d0ef7ba5b13",
+  "download_url": "https://drive.google.com/uc?export=download&id=13_L-qk_feKTSTSE_c4dCExuvtzpz9I5f",
+  "file_name": "POS_PRO_Update_1.0.4.zip",
+  "sha256": "BU_YERGA_RELEASE_PAPKASIDAGI_VERSION.JSON_DAGI_SHA256_NI_QO'YING",
   "package_type": "zip"
 }
