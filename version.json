@@ -1,15 +1,17 @@
 {
-  "version": "1.0.5",
-  "build": 6,
-  "channel": "stable",
-  "required": false,
-  "title": "POS PRO v1.0.5",
-  "description": [
-    "Interfeys monitor o'lchamiga avtomatik moslashtirildi.",
-    "Kichik ekranli noutbuklarda dastur ko'rinishi yaxshilandi."
-  ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1npmrtCHvPMeCWuHAPW2UuL7R1N7fSpbI",
-  "file_name": "POS_PRO_Update_1.0.5.zip",
-  "sha256": "1396f41fd0c9a92251b67c8f4e177b5ee27bbfd0dc5f13e531914b6c9d41e693",
-  "package_type": "zip"
+    "version": "1.0.6",
+    "build": 7,
+    "channel": "stable",
+    "required": false,
+    "title": "POS PRO v1.0.6",
+    "description": [
+        "Professional POS tizimining yangi versiyasi.",
+        "Responsive dizayn yaxshilandi.",
+        "Ko'p barcode qo'llab-quvvatlandi.",
+        "Barqarorlik va ishlash optimallashtirildi."
+    ],
+    "download_url": "https://drive.google.com/uc?export=download&id=1-q7PVMAu8L5-XEnAMiL1OjIatUyYtZga",
+    "file_name": "POS PRO.zip",
+    "sha256": "",
+    "package_type": "zip"
 }
