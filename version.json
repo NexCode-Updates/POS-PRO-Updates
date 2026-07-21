@@ -1,17 +1,16 @@
 {
-    "version": "1.0.6",
-    "build": 7,
-    "channel": "stable",
-    "required": false,
-    "title": "POS PRO v1.0.6",
-    "description": [
-        "Professional POS tizimining yangi versiyasi.",
-        "Responsive dizayn yaxshilandi.",
-        "Ko'p barcode qo'llab-quvvatlandi.",
-        "Barqarorlik va ishlash optimallashtirildi."
-    ],
-    "download_url": "https://drive.google.com/uc?export=download&id=1i4-LmHTGMRKMGkmhbQWSFxiJ4V9gH7uZ"
-    "file_name": "POS PRO.zip",
-    "sha256": "",
-    "package_type": "zip"
+  "version": "1.0.6",
+  "build": 7,
+  "channel": "stable",
+  "required": false,
+  "title": "POS PRO v1.0.6",
+  "description": [
+    "Responsive dizayn yaxshilandi",
+    "Ko'p barcode qo'llab-quvvatlandi",
+    "Barqarorlik va ishlash optimallashtirildi"
+  ],
+  "download_url": "https://github.com/NexCode-Updates/POS-PRO-Updates/releases/download/v1.0.6/POS_PRO_Update_1.0.6.zip",
+  "file_name": "POS_PRO_Update_1.0.6.zip",
+  "sha256": "f005403de1f590d200c3aa2da92761537792a54bfb334b6992e94ca6be2c118b",
+  "package_type": "zip"
 }
