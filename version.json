@@ -1,16 +1,14 @@
 {
-  "version": "1.0.6",
-  "build": 7,
+  "version": "1.0.8",
+  "build": 8,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.0.6",
+  "title": "POS PRO v1.0.8",
   "description": [
-    "Responsive dizayn yaxshilandi",
-    "Ko'p barcode qo'llab-quvvatlandi",
-    "Barqarorlik va ishlash optimallashtirildi"
+    "Sotuv oynasi noutbuk ekraniga moslashtirildi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1Nxko_4L8Qnau5uCJM_WHsm917V3sToXF",
-  "file_name": "POS_PRO_Update_1.0.6.zip",
-  "sha256": "f005403de1f590d200c3aa2da92761537792a54bfb334b6992e94ca6be2c118b",
+  "download_url": "https://drive.google.com/uc?export=download&id=1PSccgKEft9RFTiU31ERG3mq4HTMx4NvF",
+  "file_name": "POS_PRO_Update_1.0.8.zip",
+  "sha256": "d668c870e803fa9b49531d20acfc94975584d66eab4c2418eef0682892dd2d5e",
   "package_type": "zip"
 }
