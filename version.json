@@ -1,14 +1,14 @@
 {
-  "version": "1.0.8",
-  "build": 8,
+  "version": "1.0.9",
+  "build": 9,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.0.8",
+  "title": "POS PRO v1.0.9",
   "description": [
-    "Sotuv oynasi noutbuk ekraniga moslashtirildi"
+    "Xatolar tuzatildi"
   ],
   "download_url": "https://drive.google.com/uc?export=download&id=1PlRaJDlGx3WQ71eVqVtZWJdpAPbypa3g",
-  "file_name": "POS_PRO_Update_1.0.8.zip",
-  "sha256": "d668c870e803fa9b49531d20acfc94975584d66eab4c2418eef0682892dd2d5e",
+  "file_name": "POS_PRO_Update_1.0.9.zip",
+  "sha256": "a5e39da94ed9675f14aa8db4fe4f863f49f949f2e556c715e402bfd9d7da8342",
   "package_type": "zip"
 }
