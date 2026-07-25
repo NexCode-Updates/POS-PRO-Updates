@@ -1,17 +1,17 @@
 {
-  "version": "1.1.0",
-  "build": 10,
+  "version": "1.1.1",
+  "build": 11,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.0",
+  "title": "POS PRO v1.1.1",
   "description": [
+    "Yangilash tizimidagi xato tuzatildi",
     "Klaviatura boshqaruvi yaxshilandi",
     "Sichqoncha o'ng tugma menyusi qo'shildi",
-    "Backup tizimi yaxshilandi",
-    "Xatolar tuzatildi"
+    "Backup tizimi yaxshilandi"
   ],
   "download_url": "https://drive.google.com/uc?export=download&id=1ultlTo81A4csNaR0_5_giL1fJTXulKjO",
-  "file_name": "POS_PRO_Update_1.1.0.zip",
-  "sha256": "ee6ce0ad74d1e0a8de38f0672024cfb4ed23a017de432a195e5319aa177da82f",
+  "file_name": "POS_PRO_Update_1.1.1.zip",
+  "sha256": "d5a4dfc957d9894c94691252fe5159f8b224bfd76022263ae173aeb8a47e032e",
   "package_type": "zip"
 }
