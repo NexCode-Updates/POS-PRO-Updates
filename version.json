@@ -1,14 +1,14 @@
 {
-  "version": "1.1.4",
-  "build": 14,
+  "version": "1.1.5",
+  "build": 15,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.4",
+  "title": "POS PRO v1.1.5",
   "description": [
-    "Backup yopilish xatosi tuzatildi va noutbuk ekran moslashuvi yaxshilandi"
+    "Sotuvda mahsulot soni ikki marta kamayishi tuzatildi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1lGq7A_zksH1GxWQLoJS6fr_jk7Ti0iNp",
-  "file_name": "POS_PRO_Update_1.1.4.zip",
-  "sha256": "d032ddd911156406f3d259de575afaeeeab601ff514359622a47c0e4c5576007",
+  "download_url": "https://drive.google.com/uc?export=download&id=1jbjLGPbfD8HM6zQcqwZG1EK_z9ik22YA",
+  "file_name": "POS_PRO_Update_1.1.5.zip",
+  "sha256": "53dc604d8a42f86ba45c2db3cb2a5f55bbc30a5149bd5f26391a8b5c9ebce77e",
   "package_type": "zip"
 }
