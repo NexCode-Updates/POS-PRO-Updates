@@ -1,14 +1,14 @@
 {
-  "version": "1.1.3",
-  "build": 13,
+  "version": "1.1.4",
+  "build": 14,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.3",
+  "title": "POS PRO v1.1.4",
   "description": [
-    "Shtrix kod chop etish ReportLab xatosi tuzatildi"
+    "Backup yopilish xatosi tuzatildi va noutbuk ekran moslashuvi yaxshilandi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1GEZJfHvuyEHZQuGeHouC8JU7WR4uyYOK",
-  "file_name": "POS_PRO_Update_1.1.3.zip",
-  "sha256": "09c6ba8e6fc0d88e76a30f5ae8ab52717d31ce1fb036f2284589db17d08cdd09",
+  "download_url": "https://drive.google.com/uc?export=download&id=18nsU7L-cHB2lbeoCgZNVpUqF8tiDf1lT",
+  "file_name": "POS_PRO_Update_1.1.4.zip",
+  "sha256": "7deed3b300dd0b5736e0013f3f9d5412dde61a3e1904fce9ac3adf00d9776dde",
   "package_type": "zip"
 }
