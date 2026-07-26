@@ -1,14 +1,14 @@
 {
-  "version": "1.1.5",
-  "build": 15,
+  "version": "1.1.6",
+  "build": 16,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.5",
+  "title": "POS PRO v1.1.6",
   "description": [
-    "Sotuvda mahsulot soni ikki marta kamayishi tuzatildi"
+    "Updater WinError 5 muammosi tuzatildi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1jbjLGPbfD8HM6zQcqwZG1EK_z9ik22YA",
-  "file_name": "POS_PRO_Update_1.1.5.zip",
-  "sha256": "53dc604d8a42f86ba45c2db3cb2a5f55bbc30a5149bd5f26391a8b5c9ebce77e",
+  "download_url": "https://drive.google.com/uc?export=download&id=1BByf-2dGzGP9pA2EQjy7jQesUtQZhOXi",
+  "file_name": "POS_PRO_Update_1.1.6.zip",
+  "sha256": "d5bee03cc55932fc3f8e27ec98b7be9da2553bd74ebbc7347b3c75c811f61f8b",
   "package_type": "zip"
 }
