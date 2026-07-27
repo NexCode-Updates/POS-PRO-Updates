@@ -1,14 +1,14 @@
 {
-  "version": "1.1.6",
-  "build": 16,
+  "version": "1.1.7",
+  "build": 17,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.6",
+  "title": "POS PRO v1.1.7",
   "description": [
-    "Updater WinError 5 muammosi tuzatildi"
+    "Mahsulot qidiruviga shtrix kod qo'shildi va barcode PDF yaxshilandi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1BByf-2dGzGP9pA2EQjy7jQesUtQZhOXi",
-  "file_name": "POS_PRO_Update_1.1.6.zip",
-  "sha256": "d5bee03cc55932fc3f8e27ec98b7be9da2553bd74ebbc7347b3c75c811f61f8b",
+  "download_url": "https://drive.google.com/uc?export=download&id=19KJ3a7V7YnAtWSJDbP_vcExMHw_XucSP",
+  "file_name": "POS_PRO_Update_1.1.7.zip",
+  "sha256": "199062dcd6bebe57dd3f75e79f14a08ca98109c32f934512bc2a300d7d55adb7",
   "package_type": "zip"
 }
