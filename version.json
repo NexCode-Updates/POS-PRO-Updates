@@ -1,14 +1,18 @@
 {
-    "version": "1.1.7",
-    "build": 17,
-    "channel": "stable",
-    "required": false,
-    "title": "POS PRO v1.1.7",
-    "description": [
-        "Mahsulot qidiruviga shtrix kod qo'shildi va barcode PDF yaxshilandi"
-    ],
-    "download_url": "https://drive.google.com/uc?export=download&id=14dIZ7jhT28ef3KCleGYtnS7NVJKHi1f5",
-    "file_name": "POS_PRO_Update_1.1.7.zip",
-    "sha256": "4f854d3f9706fd1367dc3092179981987ef755202fb894e8c69241ef005a37f2",
-    "package_type": "zip"
+  "version": "1.1.8",
+  "build": 18,
+  "channel": "stable",
+  "required": false,
+  "title": "POS PRO v1.1.8",
+  "description": [
+    "Interfeys turli monitor o'lchamlariga moslashtirildi",
+    "Qarzlar bo'limi yaxshilandi",
+    "Sotuv va ombor tarixiga Excel eksport qo'shildi",
+    "Mahsulot profili va sotuv statistikasi tuzatildi",
+    "Xatolar tuzatildi va barqarorlik oshirildi"
+  ],
+  "download_url": "https://drive.google.com/uc?export=download&id=1tefsLsTfA0sF9vxDAnvL69uSqz9tuCkN",
+  "file_name": "POS_PRO_Update_1.1.8.zip",
+  "sha256": "9db9b35509c73b6ae3a9878c46480ffdac00dc837f3ac2c340b0eec808d12dd0",
+  "package_type": "zip"
 }
