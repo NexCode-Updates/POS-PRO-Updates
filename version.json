@@ -1,18 +1,14 @@
 {
-  "version": "1.1.8",
-  "build": 18,
+  "version": "1.1.9",
+  "build": 19,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.8",
+  "title": "POS PRO v1.1.9",
   "description": [
-    "Interfeys turli monitor o'lchamlariga moslashtirildi",
-    "Qarzlar bo'limi yaxshilandi",
-    "Sotuv va ombor tarixiga Excel eksport qo'shildi",
-    "Mahsulot profili va sotuv statistikasi tuzatildi",
-    "Xatolar tuzatildi va barqarorlik oshirildi"
+    "Xatolar tuzatildi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1tefsLsTfA0sF9vxDAnvL69uSqz9tuCkN",
-  "file_name": "POS_PRO_Update_1.1.8.zip",
-  "sha256": "9db9b35509c73b6ae3a9878c46480ffdac00dc837f3ac2c340b0eec808d12dd0",
+  "download_url": "https://drive.google.com/uc?export=download&id=1MUacHsJV7UBIVjm-rKBCTpAvK8ajV3-1",
+  "file_name": "POS_PRO_Update_1.1.9.zip",
+  "sha256": "40dcf74d0b422afc51aedae42672d8f8dab563dd3367538689faac2f484f1fd7",
   "package_type": "zip"
 }
