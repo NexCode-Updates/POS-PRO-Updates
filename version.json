@@ -1,14 +1,14 @@
 {
-  "version": "1.1.9",
-  "build": 19,
+  "version": "1.1.10",
+  "build": 20,
   "channel": "stable",
   "required": false,
-  "title": "POS PRO v1.1.9",
+  "title": "POS PRO v1.1.10",
   "description": [
     "Xatolar tuzatildi"
   ],
-  "download_url": "https://drive.google.com/uc?export=download&id=1MUacHsJV7UBIVjm-rKBCTpAvK8ajV3-1",
-  "file_name": "POS_PRO_Update_1.1.9.zip",
+  "download_url": "https://drive.google.com/uc?export=download&id=1TQKSPkOQduEL0gflzMTiUGylJpOXFlbL",
+  "file_name": "POS_PRO_Update_1.1.10.zip",
   "sha256": "40dcf74d0b422afc51aedae42672d8f8dab563dd3367538689faac2f484f1fd7",
   "package_type": "zip"
 }
